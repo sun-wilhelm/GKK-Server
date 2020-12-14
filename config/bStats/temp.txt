@@ -1,0 +1,2 @@
+io.izzel.ambershop.util.internal.org.bstats.sponge.Metrics
+Note: This class only exists for internal purpose. You can ignore it :)
